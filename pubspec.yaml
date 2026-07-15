@@ -1,6 +1,6 @@
 name: babstrap_settings_screen
 description: This project help developers to display a beautiful Settings Screen UI using Flutter.
-version: 0.1.10
+version: 0.2.0
 homepage: https://github.com/babstrap/babstrap_settings_screen.git
 
 environment:
@@ -24,13 +24,6 @@ flutter:
   # The 'pluginClass' and Android 'package' identifiers should not ordinarily
   # be modified. They are used by the tooling to maintain consistency when
   # adding or updating assets for this project.
-  plugin:
-    platforms:
-      android:
-        package: com.babacar.babstrap_settings_screen
-        pluginClass: BabstrapSettingsScreenPlugin
-      ios:
-        pluginClass: BabstrapSettingsScreenPlugin
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
